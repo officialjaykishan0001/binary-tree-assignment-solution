@@ -1,0 +1,12 @@
+note : After observing the given tree then the answered are given.
+
+Q1. what is the parent node of 8.
+Ans . the parent node of 8 is 7.
+
+Q2. what is the root node of this tree.
+Ans . the root of this tree is 10.
+
+Q3. What are the leaf nodes of the tree
+Ans. the leaf nodes are 3 , 9 and 14. because they have no child nodes.
+
+

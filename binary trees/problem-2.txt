@@ -1,0 +1,13 @@
+Note : After observing the given tree , then the following answers are given.
+
+Q1. What is the sibling node of the node 12.
+Ans. The sibling node of node 12 is node 8.
+
+Q2. What are the ancestor nodes of the node 9.
+Ans. The ansector nodes of the node 9 are 8, 10 , and 5.
+
+
+Q3. What is the descendant node of the node 20.
+Ans. The descendant nodes of the node 20 are 25 , 22, 30 , 21 and 23.
+
+

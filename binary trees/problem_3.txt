@@ -1,0 +1,13 @@
+Note : The answer of the following questions given after considering the tree
+
+Q1. what is the level of  node  3.
+Ans. the level of node 3 is 2.
+
+Q2. How many number of edges in the path from node 7 to 14.
+Ans. There are total 3 edges in path from node 7 to node 14.
+
+Q3. What is the height of the tree.
+Ans. the height of the tree is 4.
+
+Q4. What is the size of the tree.
+Ans. the size refer to the total no of nodes in the binary tree. so, the size of upword given tree is 7.
